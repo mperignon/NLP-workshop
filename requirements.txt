@@ -1,0 +1,13 @@
+jupyter
+pandas
+requests
+gensim
+scikit-learn
+numpy
+spacy
+pyLDAvis
+vaderSentiment
+matplotlib
+torch
+transformers
+tqdm
