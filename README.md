@@ -26,3 +26,8 @@ Download the spaCy language model for English by running:
 ```
 python -m spacy download en_core_web_sm
 ```
+
+To make sure Jupyter Notebooks run correctly, install the iPython kernel manually:
+```
+conda install -c anaconda ipykernel
+```
